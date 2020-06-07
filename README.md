@@ -1,3 +1,12 @@
-# glowing-garbanzo
-My first Git Repository
-This is my first Git project, and I'm trying to be a qualified amateur programmer.
+# glowing-garbanzo 在Github上
+我的第一个jsp应用程序
+
+目的：用来学习jsp程序开发，并实现一些个人使用的功能
+功能描述：
+    1.将电脑端照片文件夹中的照片展示在网页上，并可以预览、查看、删除
+    2.可以在手机端将照片上传到电脑端，并选择指定的目录
+
+技术：
+    1.HTML、JavaScript、CSS实现页面
+    2.JSP制作与电脑端交互的功能，生成页面的动态部分
+    3.电脑端安装Tomcat，作为JSP动态页面的解析器
